@@ -1,7 +1,7 @@
 head:
-  title_separate: "|"
+  title_separate: "-"
   # (optional) head meta keywords
-  keywords: "iris"
+  keywords: "monose"
   # icon generator: https://realfavicongenerator.net/
   favicon: 
     small: /favicon.ico # including 16*16, 32x32, 48*48 PNGs, ICO format
@@ -34,9 +34,9 @@ hero:
   # placeholder color
   color: 
   # hero image
-  image: 
+  image: https://i.lia.im/hear.jpg
   # (optional) smaller image for max-width=768px device
-  image_small:
+  image_small: 
 
 post:
   # max length to excerpt post
@@ -47,7 +47,7 @@ post:
 
 footer:
   # (optional) copyright year
-  copyright: 2015
+  copyright: 2016
 
 blog:
   avatar: avatar.png
@@ -55,11 +55,11 @@ blog:
 
 analytics:
   # ga tid: UA-XXXX-YY
-  google:
+  google: UA-136841841-3
 
 comment:
   disqus:
-    enable: true
+    enable: false
     shortname: giuem
     # see https://github.com/SukkaW/DisqusJS
     mirror: false
