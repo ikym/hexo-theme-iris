@@ -7,7 +7,7 @@
 1. Download the theme to your Hexo theme folder;
 
 ``` bash
-git clone https://github.com/ikym/hexo-theme-iris.git themes/iris
+git clone https://github.com/hsce/hexo-theme-iris.git themes/iris
 ```
 
 2. Configure theme;
